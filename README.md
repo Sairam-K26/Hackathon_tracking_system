@@ -34,7 +34,7 @@ The Hackathon Tracking System is a platform designed to streamline the process o
 ## UI Design is posted as issues for Open contribution
 
 ### Issue #1
-
+- ## UI Design for Admin-1 Page 
 - Logo Area: This section is reserved for displaying the organization's logo or branding.
 - Carousel Sections: There are two sections labeled "Carosel," which likely represent placeholder areas for implementing content carousels or sliders.
 - Admin Login: There is an icon or button labeled "ADMIN" which suggests an admin login or access point.
@@ -45,7 +45,7 @@ The Hackathon Tracking System is a platform designed to streamline the process o
 - Placeholder Text: Several sections contain placeholder text or symbols, such as "User@admin" and the password field, which would be replaced with actual content or functionality during development.
 
 ### Issue #3
-
+- ## UI Design for User-1 Page
 - **Header**: The header section includes the institute's logo and name "KGISL Institute of Technology" along with an emblem or symbol.
 - **Carousel:** There are two placeholders labeled "Carousel," suggesting that this area will display rotating images or content.
 - **Login/Sign Up Forms:** The central area contains two sections, one for signing in and another for signing up. The sign-in section includes input fields for username and password, with a "Forget Password" link below. The sign-up section has a "Sign Up" button.
